@@ -1,0 +1,17 @@
+opencv-python-headless~=3.4
+torch==1.7.1
+torchvision==0.8.2
+pytorch-metric-learning==0.9.81
+numba
+higra>=0.4.4
+matplotlib>=3.1.1
+numpy>=1.17.4
+pillow>=6.2.1
+pyside2>=5.14
+qimage2ndarray>=1.7
+scikit-image>=0.15.0
+scikit-learn>=0.21.3
+tqdm>=4.40.2
+umap-learn>=0.3.10
+yacs
+pyift
